@@ -14,9 +14,9 @@ def __main__():
     # run(day, PART_ONE, True)
     ###################
     # run(day, PART_TWO, True)
-    # ###################
-    run(day, PART_ONE)
-    ###################
+    ##################
+    # run(day, PART_ONE)
+    ##################
     run(day, PART_TWO)
     ###################
     pass
