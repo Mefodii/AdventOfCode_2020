@@ -1,5 +1,3 @@
-import os
-import sys
 import time
 from constants import PART_TWO, PART_ONE
 from day_runner import run
@@ -9,11 +7,11 @@ from day_runner import run
 # Main function
 #######################################################################################################################
 def __main__():
-    day = 2
+    day = 3
     ##################
     # run(day, PART_ONE, True)
     ##################
-    # run(day, PART_TWO, True)
+    run(day, PART_TWO, True)
     ##################
     # run(day, PART_ONE)
     ##################
