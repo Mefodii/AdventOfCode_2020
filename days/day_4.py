@@ -76,7 +76,7 @@ class Passport:
         if len(value) >= 4:
             if value[-2:] == "cm":
                 min_value = 150
-                max_value = 190
+                max_value = 193
             elif value[-2:] == "in":
                 min_value = 59
                 max_value = 76
