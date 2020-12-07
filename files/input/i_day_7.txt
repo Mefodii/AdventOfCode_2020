@@ -1,989 +1,594 @@
-hgt:176cm
-iyr:2013
-hcl:#fffffd ecl:amb
-byr:2000
-eyr:2034
-cid:89 pid:934693255
-
-hcl:#b5c3db ecl:grn hgt:155cm pid:#baec97 iyr:2017
-byr:1939
-eyr:2020
-
-pid:526669252 eyr:1972
-hgt:152cm ecl:dne byr:1960 hcl:z iyr:2023
-
-eyr:2028 hcl:#c0946f hgt:73in byr:1926 ecl:#473aaf iyr:2016 pid:565318180
-
-pid:472686027 ecl:oth iyr:2019
-cid:277 byr:1940
-eyr:2030 hgt:170cm
-hcl:#62e117
-
-ecl:oth
-iyr:2017
-pid:938461813 hcl:#733820 byr:1959 hgt:159cm eyr:2022
-
-iyr:2011 eyr:2021 hcl:z
-ecl:hzl byr:2002 pid:17324328 cid:140
-hgt:186cm
-
-byr:2022 pid:3164234967 iyr:1984
-hgt:76cm hcl:6b3837
-ecl:#fa362b
-eyr:2037
-
-hcl:z eyr:1945
-pid:9247286687 hgt:75cm
-iyr:1934 cid:326 ecl:zzz
-byr:2005
-
-byr:2005
-ecl:lzr
-eyr:2021 pid:152cm
-cid:254 iyr:2020 hcl:z hgt:157cm
-
-iyr:2020 eyr:2020 hcl:#18171d ecl:gry pid:914128753 hgt:168cm
-byr:2002
-
-hcl:#7d3b0c hgt:160cm eyr:2020 iyr:2015
-pid:054067854 ecl:brn byr:2023
-
-hcl:#cfa07d hgt:157cm
-byr:1994 eyr:2027 pid:344443856
-iyr:2016
-
-pid:762423097
-iyr:2014 hcl:#a97842 ecl:brn hgt:180cm byr:1927 eyr:2021
-
-pid:6645616064 hcl:#ceb3a1 byr:2030
-eyr:2032 hgt:158cm iyr:2012
-ecl:#e9619e
-
-eyr:2022
-ecl:brn
-byr:1986
-hgt:161cm cid:99 pid:288726584 hcl:#6b5442 iyr:2019
-
-cid:75
-pid:117771843
-hgt:184cm byr:1937 ecl:brn
-hcl:#d88fd9
-iyr:2015 eyr:2027
-
-iyr:2016 hcl:#fffffd hgt:170cm eyr:2022 ecl:oth pid:629454113
-byr:1952
-
-hcl:#c0946f iyr:2018 hgt:189cm
-byr:1971 ecl:oth eyr:2029
-pid:800207810
-
-eyr:2022 hcl:#7d3b0c pid:969986413
-byr:1978 iyr:2020 hgt:186cm
-ecl:gry
-
-hgt:171cm byr:1949 hcl:#341e13
-ecl:amb eyr:2030 pid:359107274 iyr:2013
-
-pid:839751525 eyr:2024 byr:1921
-iyr:2012 ecl:amb hcl:#b0ed6f hgt:154cm
-
-pid:32592758
-byr:2009
-hgt:107 iyr:2019 hcl:#866857
-eyr:2036 ecl:amb
-
-eyr:2040 hcl:#733820 cid:199
-byr:2027
-pid:7791792988 ecl:blu iyr:2026
-hgt:63cm
-
-iyr:2011 cid:119 pid:344693475
-ecl:grn hgt:160cm eyr:2029 hcl:#346973 byr:1996
-
-hgt:161in byr:2025 cid:167 iyr:2024 eyr:2040 pid:034804648
-hcl:#efcc98 ecl:oth
-
-ecl:#ba14f0 iyr:1935
-hgt:60cm
-byr:2003 eyr:1987
-hcl:8e509b pid:161cm
-
-iyr:2018 pid:620508652 ecl:amb eyr:2023 hgt:183cm hcl:#a97842
-byr:1967 cid:117
-
-eyr:2022 ecl:amb
-pid:476049089 iyr:2012
-hgt:165cm
-byr:1955 hcl:#602927
-
-byr:2014 hcl:z iyr:2029 cid:279 pid:28914607 hgt:75cm ecl:xry
-
-hgt:156cm eyr:2023 iyr:2011 ecl:oth hcl:#7d3b0c pid:561313217 byr:1952
-
-iyr:2011 byr:1935
-hcl:#cfa07d ecl:oth pid:830614209
-eyr:2028 hgt:173cm
-
-iyr:2012 cid:210 eyr:2022
-pid:652810130 hcl:#18171d ecl:grn byr:1960 hgt:152cm
-
-eyr:2026 pid:815848563 hgt:75in iyr:2019 ecl:gry byr:1947
-hcl:#cfa07d
-
-cid:181 iyr:2012
-eyr:2024 byr:1934 hcl:#c0946f
-hgt:165cm ecl:oth pid:232944581
-
-cid:135 iyr:2020
-byr:1971 hcl:#733820 pid:531877857 hgt:179cm eyr:2027 ecl:amb
-
-byr:1987 hcl:936807 eyr:2032 ecl:#4bec4a pid:605628619 cid:180 hgt:150in
-iyr:2015
-
-hcl:b62ef0 ecl:#092141
-pid:876635399 byr:1944 hgt:158cm iyr:2017 eyr:1924
-
-iyr:2016 pid:7039815301 byr:2014 hgt:150 eyr:2032 ecl:blu hcl:z
-
-byr:1979 eyr:2030 iyr:1978 hgt:63 pid:1554613758 hcl:z ecl:amb
-
-hgt:70cm hcl:e45897 iyr:2020 eyr:1977 ecl:dne pid:2878189427 byr:1973
-
-iyr:2003
-hcl:#cfa07d
-pid:260517078
-byr:2030 hgt:175cm eyr:2020
-ecl:brn
-
-pid:460604681 eyr:2022
-cid:138 iyr:2016 hgt:163cm
-byr:1922
-hcl:#ceb3a1 ecl:oth
-
-hgt:167cm byr:2009 eyr:1975 cid:295 pid:174cm iyr:2029
-hcl:z
-
-hgt:67in ecl:grn
-eyr:2023
-cid:122 pid:281246917 byr:1990 iyr:2011 hcl:#866857
-
-ecl:#ed7ddc byr:1922 cid:234 hcl:e61b1e iyr:1932 eyr:1996 pid:31344005 hgt:62cm
-
-byr:1949
-cid:275 iyr:2017 ecl:grn
-hgt:164cm eyr:2027 hcl:#18171d
-pid:751342937
-
-ecl:blu hgt:162cm
-pid:432600613 byr:1923 eyr:2029 iyr:2011 hcl:#623a2f cid:315
-
-iyr:2020
-hcl:#b2bb11 pid:055891584 ecl:grn
-hgt:67in
-eyr:2029 byr:1937
-
-iyr:2012
-hcl:#a97842 pid:325640714 ecl:blu hgt:185cm eyr:2024 byr:1971
-
-hcl:#b6652a pid:485327267
-ecl:brn hgt:155cm eyr:2028
-iyr:2019
-
-pid:902164867 hgt:77 cid:283 eyr:2027
-iyr:2020 ecl:hzl byr:1935 hcl:#efcc98
-
-ecl:grn
-hcl:#ceb3a1 byr:1977 hgt:165cm
-pid:850700221 eyr:2030
-iyr:2012
-
-byr:1989 ecl:brn eyr:2026 pid:919138357 iyr:2016
-hcl:#623a2f cid:319 hgt:161cm
-
-iyr:2017
-byr:1973 pid:293382118 hcl:#341e13 cid:143 ecl:hzl
-hgt:166cm eyr:2022
-
-pid:517102798
-hcl:f9d9dd
-eyr:1933 iyr:2019 hgt:164cm
-byr:2017 ecl:utc
-
-eyr:2023 pid:757868802 hcl:#18171d cid:244
-hgt:156cm
-ecl:blu iyr:2015 byr:1926
-
-eyr:2022
-iyr:2020
-hgt:158cm ecl:grn
-byr:1988
-pid:979194751 hcl:#888785
-
-eyr:2039
-pid:3867868142 byr:1936 ecl:dne iyr:2022 hcl:4b43b8
-hgt:115 cid:241
-
-iyr:2015 eyr:2026
-hcl:#ceb3a1 pid:539099924
-cid:234
-ecl:brn
-byr:1920 hgt:163cm
-
-cid:259 iyr:2020
-pid:949453818 eyr:2022 hgt:181cm
-byr:1997 ecl:blu hcl:#18171d
-
-byr:2016
-iyr:2012
-ecl:utc
-hgt:68in eyr:1993
-pid:1542134802 hcl:486699
-cid:239
-
-iyr:2018
-hgt:154cm ecl:brn byr:1970
-eyr:2021 pid:581775861 hcl:#888785
-
-iyr:2012
-eyr:2027 hgt:67cm hcl:#efcc98 ecl:zzz pid:312104916 byr:2020
-
-hcl:#b6652a ecl:hzl eyr:2023 iyr:2012 pid:513268492
-hgt:159cm
-
-hgt:162in hcl:z
-byr:2029
-eyr:2023 ecl:#e2e7ab iyr:2016 pid:65979982
-
-cid:84 hgt:71in ecl:blu pid:982719716
-eyr:2020 iyr:2014
-
-eyr:2028 hgt:181cm
-ecl:hzl pid:255796693 hcl:#341e13 byr:1994 iyr:2011 cid:218
-
-ecl:blu
-byr:2029 iyr:2017 pid:468504566 eyr:2020 hcl:z hgt:163cm
-
-hgt:158cm
-eyr:2025 ecl:hzl cid:295 pid:601339484
-hcl:#7d3b0c byr:1991 iyr:2013
-
-eyr:2028
-iyr:2018 pid:2236240873
-hgt:172cm
-ecl:#0e337e hcl:#b6652a cid:108 byr:1930
-
-ecl:gry hcl:#888785
-eyr:2020 pid:442479017 iyr:2016
-
-iyr:2014 ecl:grn
-cid:313 eyr:2023
-hgt:183cm
-byr:1976
-pid:499580308 hcl:#53efe6
-
-eyr:2034
-cid:235 hcl:8f3cf5
-byr:2027
-hgt:161in pid:3259965094 ecl:xry iyr:2026
-
-eyr:1978 byr:1925 iyr:2018 hgt:170cm ecl:#0c94e8
-pid:562699017 hcl:#816949
-
-eyr:2023 hcl:#866857 hgt:179cm
-pid:785862442 iyr:2014 cid:165 ecl:amb byr:1939
-
-hgt:187cm
-pid:64469711 ecl:gry eyr:2023 cid:225 hcl:#341e13 iyr:2011 byr:1958
-
-hgt:162cm byr:2028 ecl:#37e345
-eyr:2037 hcl:19fb3d
-iyr:2021
-pid:#87921a
-
-eyr:2027 hcl:#18171d
-byr:2002 ecl:gry iyr:2014
-pid:561506850 hgt:177cm
-
-hgt:64cm pid:#a92686
-eyr:2029 cid:122
-byr:2026
-iyr:2017 hcl:z ecl:grn
-
-eyr:2028 byr:2007 hgt:155cm ecl:#86fa1b hcl:#733820 pid:562889497
-iyr:2019
-
-pid:880698787
-byr:1992
-hcl:#7d3b0c hgt:163cm ecl:hzl
-iyr:2011 eyr:2021
-
-eyr:2020 byr:1994 iyr:2011 hgt:186cm pid:841855425 hcl:#cfa07d ecl:gry
-
-byr:1923 iyr:2015 ecl:amb pid:414655744
-hcl:#b6652a
-hgt:159cm
-eyr:2026
-
-hgt:171cm ecl:amb pid:363065723 iyr:2020
-cid:66 hcl:#b6652a eyr:2021
-byr:1960
-
-eyr:2002
-hcl:2627b2 ecl:#1bf21d pid:168cm byr:2024 iyr:2020
-hgt:186in
-
-iyr:2011 byr:1924 eyr:2024
-hcl:#b6652a ecl:brn
-pid:794477411 hgt:162in
-
-hcl:z hgt:67cm
-byr:2025
-pid:582569979
-iyr:2013
-ecl:oth eyr:2025
-
-cid:50 hcl:931e2c
-hgt:172in eyr:1994 iyr:2023
-ecl:#cd2204
-byr:2015
-pid:157cm
-
-hgt:173cm eyr:2028
-ecl:amb pid:569607283
-byr:1942
-iyr:2019
-cid:228
-hcl:#866857
-
-cid:109
-ecl:oth eyr:1933 byr:1982 pid:173cm hcl:#b6652a hgt:174cm
-iyr:2023
-
-cid:69 hcl:#9ad05b pid:341135641
-byr:1968 ecl:brn
-iyr:2012 hgt:156cm
-eyr:2020
-
-hgt:176cm
-byr:1954 ecl:blu
-eyr:2020
-pid:478462637 iyr:2019
-hcl:#888785
-
-iyr:2026 hgt:193in
-byr:2018 pid:162cm hcl:605e7f eyr:1948 ecl:utc
-
-byr:1962
-eyr:2022 pid:445346117 iyr:2019 hgt:158cm hcl:#623a2f ecl:hzl
-
-cid:278 hgt:187cm eyr:2024 iyr:2016 byr:1964
-ecl:grn pid:450739552 hcl:#733820
-
-ecl:grn byr:2000 eyr:2023
-pid:344489911 hcl:#7d3b0c iyr:2011 hgt:177cm
-
-iyr:2015 hgt:180cm cid:190 hcl:#a97842 pid:359774842 eyr:2029 byr:2002 ecl:amb
-
-eyr:2027 iyr:2015 ecl:hzl
-pid:082733109
-byr:1975 hgt:191cm cid:251 hcl:#888785
-
-hcl:#c0946f iyr:2015
-hgt:167cm byr:1990 ecl:amb pid:168cm eyr:2023
-
-ecl:gry eyr:2028
-byr:1934 iyr:2013 hcl:#6b5442
-pid:424412120 hgt:173cm
-
-pid:273352568
-eyr:2024
-iyr:2013 byr:1926 hcl:#602927
-ecl:brn hgt:180cm
-
-hcl:#7d3b0c hgt:70in ecl:amb iyr:2019
-byr:1937
-eyr:2030 pid:309011548
-
-ecl:grn
-hgt:64in pid:796889811 hcl:#18171d
-byr:1929 eyr:2027
-
-ecl:amb hcl:#888785
-pid:412449028 cid:316 byr:1982
-iyr:2019 eyr:2030 hgt:193cm
-
-eyr:1927
-hcl:z hgt:158cm byr:1930
-ecl:lzr iyr:2018
-cid:197
-pid:0906120002
-
-ecl:grn byr:1970 hgt:181cm
-pid:376212702 eyr:2030 iyr:2017 cid:266 hcl:#f8b0f5
-
-iyr:2018 hgt:73in pid:652356158 hcl:#c0946f
-ecl:grn byr:1973
-
-cid:170 hcl:#b6652a byr:2011
-ecl:gry iyr:2025 pid:#b6e567 hgt:67cm eyr:2016
-
-hgt:192cm ecl:amb eyr:2026 pid:201824712 hcl:#888785 byr:1966 iyr:2019
-
-iyr:2013 byr:1995 eyr:2028 hcl:#b6652a ecl:brn cid:53 pid:705606447 hgt:176cm
-
-hcl:#341e13 byr:1951
-hgt:161cm pid:231973770 iyr:2015 ecl:hzl
-eyr:2030
-
-cid:210 ecl:brn iyr:2017 eyr:2030
-hgt:176cm hcl:#efcc98
-byr:1965
-
-eyr:2020 hcl:#7d3b0c
-pid:872088079 ecl:oth iyr:2017 byr:1920
-hgt:180cm
-
-hcl:#0b540c iyr:2019
-byr:1938
-hgt:153cm ecl:gry pid:236785988
-eyr:2020
-
-eyr:2020 hgt:184cm iyr:2019
-pid:673186642 ecl:oth byr:1977 hcl:#866857
-
-eyr:2025
-ecl:gry hcl:#341e13 byr:1970 iyr:2010 pid:972122542 hgt:184cm
-
-ecl:grn byr:1992 hgt:71in
-iyr:2014 cid:254 hcl:#fffffd pid:749733013
-eyr:2026
-
-cid:98 ecl:amb eyr:2022
-hgt:169cm pid:022677680
-byr:1937 iyr:2014 hcl:#e62c71
-
-hgt:192cm
-iyr:2015
-eyr:2028 ecl:oth pid:6000619833 hcl:#c0946f
-byr:1930
-
-byr:1938 hcl:#efcc98 hgt:178cm iyr:1953 eyr:2038
-ecl:brn pid:#cdc55a
-
-hgt:66in byr:1951 iyr:2016 hcl:#18171d
-eyr:2027
-ecl:lzr pid:834188980
-
-iyr:2012 eyr:2025
-hcl:#7d3b0c pid:330325803 cid:166 hgt:186cm byr:1938
-ecl:amb
-
-iyr:2015 hcl:#602927 cid:268 eyr:2021
-ecl:amb hgt:186cm pid:318676962
-
-hcl:#3d6f3c iyr:2014 pid:665730784 cid:191 hgt:150cm byr:1981 ecl:oth eyr:2024
-
-ecl:grn hcl:#733820
-eyr:2028 iyr:2010
-hgt:162cm byr:1944 pid:872962499
-
-eyr:2028 byr:1974
-ecl:brn
-iyr:2010 hcl:#18171d hgt:160cm
-
-hcl:#602927
-byr:1959 eyr:2027 iyr:2016 ecl:brn hgt:169cm pid:078503025
-
-hcl:#623a2f pid:326300051 hgt:153cm
-byr:1973 iyr:2012
-ecl:gry eyr:2026
-
-hgt:151cm
-byr:1966 eyr:2029 pid:026952622 hcl:#18171d ecl:gry iyr:2010
-
-hcl:#7d3b0c byr:1974 pid:444713591 iyr:2017 eyr:2030
-hgt:165cm ecl:oth
-
-iyr:2026 pid:184cm
-ecl:gmt hcl:z hgt:71cm
-eyr:2029
-
-cid:310 hcl:#fffffd byr:1998
-pid:450705840 iyr:2015
-ecl:grn eyr:2021 hgt:165cm
-
-byr:1939 hcl:#623a2f ecl:gry hgt:69in pid:539812641 eyr:2027 iyr:2013
-
-pid:207645014
-iyr:2015
-cid:314 ecl:oth
-byr:1942
-eyr:2027 hgt:186cm hcl:#fffffd
-
-ecl:#fb7e3d eyr:2031 iyr:1956
-hgt:188 pid:160cm hcl:z byr:2027
-
-byr:1972 iyr:2020 eyr:2026 hcl:#b6652a pid:289088329 hgt:65in ecl:gry
-
-eyr:2027
-hgt:59cm
-byr:2022
-pid:938063769 ecl:zzz iyr:2028 hcl:23c762
-
-byr:2004 hgt:74 iyr:2017
-eyr:2040 ecl:blu pid:4611117799 cid:73 hcl:z
-
-ecl:brn byr:1962 cid:321
-iyr:2019 eyr:2026
-hgt:159cm
-hcl:#667310 pid:439864945
-
-iyr:2026 eyr:2039 pid:633263851 cid:321 ecl:lzr hgt:166cm
-byr:2023 hcl:fc3c63
-
-byr:1961 iyr:2010 ecl:blu
-eyr:2023 pid:245858010
-
-hgt:193cm pid:821303249 eyr:2020 hcl:#6b5442 cid:130 byr:1946
-
-eyr:2026 ecl:brn
-hcl:#733820 byr:1983 hgt:182cm pid:727380954 cid:188 iyr:2015
-
-hgt:152cm cid:206 iyr:2012 byr:1947 hcl:#888785 ecl:gry
-pid:720312394 eyr:2023
-
-hgt:150cm ecl:gry pid:863712648
-iyr:2019 cid:349 byr:1976 hcl:#602927 eyr:2022
-
-hgt:164in pid:953500867
-eyr:2021
-iyr:2014
-hcl:z cid:343 ecl:amb
-
-byr:1981 pid:529710230 iyr:2013 eyr:2023
-hcl:#c0946f ecl:amb
-hgt:151cm
-
-pid:706204190 hgt:154cm cid:317
-hcl:#602927 byr:1949 ecl:blu iyr:2010 eyr:2028
-
-iyr:2019 hcl:#0219e6
-pid:850093151 ecl:gry
-eyr:2030
-byr:1938 hgt:177cm
-
-ecl:brn hcl:#efcc98 eyr:2029 byr:1963
-hgt:185cm pid:611279647 iyr:2011
-
-ecl:blu eyr:2022 byr:1941 hgt:167cm
-iyr:2012 hcl:#7d3b0c pid:415739564
-cid:193
-
-eyr:2027 ecl:blu byr:1968 pid:479994566
-hcl:#733820 hgt:151cm
-iyr:2011
-
-pid:263729839 hgt:189cm eyr:2030 ecl:gry byr:2001 hcl:#602927
-
-byr:1985
-ecl:amb pid:672663977 cid:139
-hgt:159cm hcl:#733820 iyr:2018 eyr:2020
-
-byr:1998
-hcl:#cfa07d eyr:2023 pid:255046063 iyr:2011 ecl:blu hgt:177cm
-
-ecl:oth
-byr:1980 pid:253747166 eyr:2029
-hcl:#6b5442 hgt:186cm
-
-eyr:2030 hcl:#866857
-hgt:165cm
-ecl:amb
-iyr:2017 pid:241240220 cid:164 byr:2001
-
-byr:1994 hcl:#b6652a iyr:2015
-pid:753831241
-hgt:175cm
-eyr:2027 ecl:blu
-
-hcl:#b6652a pid:471594512
-byr:1961 ecl:hzl hgt:175cm
-iyr:2020 eyr:2025
-
-byr:1987 pid:112366159
-eyr:2028 hcl:22b2d7
-hgt:64in cid:222
-ecl:#b40dca iyr:2019
-
-iyr:2015 hcl:e1ed55 hgt:160in ecl:utc byr:2015 eyr:2036
-
-byr:1935
-hcl:#7d3b0c hgt:152cm ecl:gry
-pid:160090332 iyr:2020 eyr:2020
-
-pid:552779024 byr:1998 hgt:185cm ecl:gry eyr:2026 iyr:2013 hcl:#d46cd6
-
-ecl:oth pid:311860969
-cid:57
-hgt:60in
-eyr:2026
-hcl:#ceb3a1
-byr:1961 iyr:2011
-
-eyr:2021 hgt:162cm cid:240
-pid:259997995
-hcl:#efcc98
-ecl:gry byr:1962 iyr:2017
-
-hcl:#866857
-iyr:2016
-eyr:2029
-ecl:blu byr:1927 cid:249 pid:665324615 hgt:65in
-
-byr:1931
-cid:331
-hgt:66in
-ecl:grn iyr:2020 hcl:#efcc98 eyr:2025 pid:175780921
-
-hgt:98
-eyr:2040 ecl:blu byr:2029
-iyr:1967 hcl:0d76e9
-pid:#c9053a cid:296
-
-pid:370918950
-hcl:#602927
-byr:1938
-hgt:178cm iyr:2018 eyr:2030
-ecl:oth
-
-hgt:185cm
-eyr:1984 ecl:oth pid:851080398
-hcl:z byr:2027 iyr:2017
-
-pid:095078224 byr:1957 hcl:#45bcf4 ecl:#f643f9 hgt:63cm eyr:2036 iyr:1978
-
-hcl:z
-eyr:2023 ecl:oth hgt:162cm
-iyr:2016 byr:1938 pid:#fdcddf
-
-hcl:#341e13 iyr:2013 hgt:189cm
-pid:982271041 ecl:brn
-byr:1930 eyr:2030
-
-eyr:2026
-iyr:2012 hcl:#cfa07d cid:59 pid:105862717 ecl:blu
-hgt:159cm byr:1943
-
-ecl:hzl
-pid:604172804 iyr:2016 hgt:174cm cid:79 eyr:2025
-hcl:#733820 byr:1994
-
-iyr:2011 pid:452628771 ecl:gry hgt:182cm hcl:#623a2f
-eyr:2023
-byr:1986
-
-hcl:#341e13 iyr:2010 byr:1946 eyr:2021
-cid:350 pid:049684494 hgt:180cm
-ecl:grn
-
-iyr:2020
-hgt:173cm pid:384503937
-byr:1986
-hcl:#341e13
-cid:113
-eyr:2025 ecl:amb
-
-hgt:180cm byr:1949
-hcl:#733820 iyr:2010 eyr:2030
-cid:123 pid:065609606 ecl:oth
-
-iyr:2010 eyr:2028
-pid:231750173
-hgt:63in ecl:brn
-byr:1948 hcl:#18171d
-
-iyr:2020 hcl:#623a2f
-ecl:gry
-byr:1922 pid:961213634 eyr:2022 hgt:177cm
-
-hcl:#18171d eyr:2020 iyr:2014 byr:1983
-pid:183568344 hgt:72in
-ecl:gry
-
-eyr:2023 pid:102781246 ecl:brn
-hcl:#888785 byr:1929 hgt:167cm iyr:2010
-
-pid:362873066 byr:1994 hcl:#de545f iyr:2018 hgt:177cm ecl:blu cid:86
-eyr:2024
-
-hcl:842f2d iyr:1983
-byr:1954 eyr:2037
-ecl:lzr pid:3915492573 hgt:166cm
-
-ecl:grn
-hcl:#fffffd iyr:2014
-hgt:173cm
-byr:1939
-pid:930650489
-eyr:2025
-
-eyr:2028 ecl:brn hcl:#7d3b0c hgt:166cm byr:1938 pid:992958531 iyr:2011
-
-pid:101149939 eyr:2024 iyr:2018 hgt:165cm
-ecl:hzl
-hcl:#ceb3a1 cid:176
-
-cid:62
-pid:651390352 hcl:#efcc98
-iyr:2018
-eyr:2027
-ecl:brn
-hgt:66in byr:1953
-
-hcl:#623a2f byr:1978
-iyr:2013
-hgt:180cm eyr:2027 ecl:amb pid:836425641
-
-pid:557464096 hgt:155cm ecl:blu cid:142 byr:1936 iyr:2010
-hcl:#cfa07d eyr:2027
-
-ecl:gry iyr:2024 hcl:#341e13 pid:442593279 cid:314 hgt:186cm byr:1960
-eyr:2022
-
-cid:123 iyr:2014
-byr:2000
-pid:878733390 eyr:2021 ecl:hzl hgt:162cm
-
-byr:1959 cid:259
-pid:722895016
-ecl:brn iyr:2018 eyr:2027 hgt:185cm
-
-pid:163697814 ecl:hzl
-iyr:2013 byr:1932
-hgt:68in cid:286 eyr:2025 hcl:#efcc98
-
-byr:1927
-hgt:72cm ecl:oth
-eyr:2021 hcl:#99e959
-pid:669724466 iyr:2010
-
-byr:1943 iyr:2011 eyr:2024 pid:384419879 ecl:hzl hcl:#7d3b0c hgt:170cm
-
-pid:137944386 ecl:gry
-byr:1953 hcl:#733820 iyr:2013 eyr:2025 hgt:184cm
-
-iyr:2017 eyr:2023 pid:288078785
-hgt:179cm
-byr:1993 hcl:#602927 ecl:hzl
-
-ecl:brn
-hgt:187cm eyr:2024 byr:1971 iyr:2020 hcl:#b6652a pid:622975646
-cid:290
-
-pid:371817422 ecl:blu byr:1964
-iyr:2018
-eyr:2021 cid:176
-hgt:153cm hcl:#888785
-
-byr:2002
-cid:256 iyr:2014 eyr:2024 ecl:blu hcl:#18171d hgt:187cm
-pid:050022911
-
-hgt:178cm pid:211144001 eyr:2027 iyr:2013
-byr:1947
-hcl:#7d3b0c ecl:grn
-
-eyr:2025 ecl:blu pid:046417901 byr:1950
-iyr:2015 hgt:165cm
-hcl:#7d3b0c cid:128
-
-ecl:hzl eyr:2029
-iyr:2015
-hgt:171cm hcl:#341e13
-pid:561680375 byr:1997
-
-byr:1948 iyr:2023 pid:17288381 hcl:6a34a3 ecl:#671ece eyr:2001
-cid:152
-
-eyr:2036 hgt:141 iyr:1957 byr:1987 hcl:z
-pid:86986187 ecl:utc
-
-eyr:2024 hcl:#b6652a iyr:2017 ecl:blu byr:1988 cid:348 hgt:152cm pid:068684272
-
-iyr:2011 pid:989825275
-cid:78 hcl:#341e13 byr:1983 ecl:blu hgt:158cm eyr:2020
-
-ecl:grn hgt:187cm eyr:2027 iyr:2015
-hcl:#866857 pid:240650427
-byr:1940
-cid:91
-
-hcl:#888785 cid:185 byr:1925
-hgt:155cm iyr:2015 ecl:blu eyr:2027 pid:851697441
-
-iyr:2016 ecl:oth pid:056439470 byr:1985 eyr:2026
-hgt:154cm hcl:#282539
-
-ecl:hzl hcl:#a97842
-iyr:1944
-pid:118846711 eyr:2026 byr:1922 hgt:185cm
-
-iyr:2020 hcl:#733820
-pid:854531642 hgt:165cm
-ecl:hzl eyr:2022
-
-iyr:2014
-byr:1957 hcl:#7fa674 hgt:189cm
-eyr:2023 pid:740871941 ecl:brn
-
-ecl:amb cid:349 hgt:170cm
-byr:1952 hcl:#ceb3a1 iyr:2020
-eyr:2026
-pid:730499325
-
-eyr:2027 ecl:amb
-byr:1975 pid:985687961
-hcl:z hgt:157cm
-iyr:2013
-cid:133
-
-ecl:blu
-hgt:193cm iyr:2015 hcl:#10f2ba byr:1989 pid:939704495 eyr:2021
-
-ecl:oth eyr:2025 hgt:69in iyr:2014 cid:258 pid:477970733 byr:1984 hcl:#b6652a
-
-hcl:z byr:2013
-ecl:zzz
-pid:1904741884 hgt:180 cid:138 eyr:1985 iyr:1935
-
-eyr:2025
-iyr:2026 hgt:190in pid:#43ca33
-ecl:#3e1ef1 hcl:#7d3b0c byr:2030
-
-eyr:2029 hgt:191cm
-byr:1986 hcl:#ceb3a1 cid:327 pid:795060714 iyr:2012 ecl:hzl
-
-eyr:2025 iyr:2017 ecl:grn
-hcl:z
-pid:8886398 hgt:174cm byr:2016
-
-hcl:#a97842
-eyr:2021 ecl:grn iyr:2013 pid:565234133 byr:1998
-hgt:161cm
-
-eyr:2029 hgt:163cm byr:1933 cid:86 iyr:2011
-ecl:grn
-hcl:#fffffd
-pid:818769307
-
-hgt:190cm eyr:2030 hcl:#af5b5d iyr:2011 ecl:brn pid:359524299 byr:1969
-
-ecl:amb iyr:2011 eyr:2022
-cid:141
-byr:1978 hgt:69in hcl:#fffffd pid:013006109
-
-ecl:blu hgt:164cm iyr:2019 eyr:2027 pid:899103430 hcl:#cfa07d
-byr:1976
-
-eyr:1938
-ecl:#a03c41 pid:708735698
-iyr:2030
-hgt:184cm hcl:#b6652a byr:2013
-
-ecl:hzl byr:1997 hcl:#a97842 cid:60 pid:172cm
-eyr:2023 hgt:161in iyr:1936
-
-ecl:hzl
-byr:1938 pid:094889181
-hgt:162cm iyr:2020
-eyr:2028
-hcl:#623a2f
-
-hgt:162cm cid:86
-hcl:#623a2f pid:738174580 ecl:brn byr:1980 eyr:2028 iyr:2014
-
-byr:2007 hgt:150in hcl:z
-eyr:2032
-ecl:#114f3b
-iyr:2030 pid:5129772
-
-ecl:hzl iyr:2017
-hcl:#18171d
-pid:696283412 byr:1976 hgt:168cm
-eyr:2028
-
-eyr:1922 ecl:#84b0d4 byr:2013 hcl:#ceb3a1 pid:150cm iyr:2030
-hgt:71cm
-
-hgt:164cm byr:1949 ecl:gry eyr:2026
-hcl:#623a2f
-
-ecl:oth
-iyr:2013 hgt:166cm hcl:#50e385
-pid:478852286
-eyr:2030 byr:1930
-
-cid:129
-iyr:2020 byr:1978 pid:907580992 eyr:1955
-hcl:#602927
-ecl:grn hgt:165cm
-
-ecl:blu iyr:2018 byr:1953
-hgt:177cm pid:126681706 eyr:2025 hcl:#c0946f
-
-byr:1984 pid:275799917
-ecl:oth hcl:#623a2f cid:348 iyr:2020
-hgt:189cm eyr:2024
-
-iyr:2016
-ecl:hzl byr:1954
-hcl:#623a2f pid:810508839 eyr:2026
-hgt:185cm
-
-byr:1967
-eyr:2021 hcl:#ceb3a1
-pid:406634908 hgt:158cm iyr:2018 ecl:hzl
-
-iyr:2019 eyr:2030 pid:995681076 hcl:#341e13
-cid:101 hgt:162cm ecl:blu byr:1925
-
-eyr:2026 pid:272513479 hcl:#b6652a byr:1973 iyr:2016 ecl:amb hgt:182cm
-
-pid:298704871 eyr:2024 hcl:#efcc98 byr:1959
-iyr:2014 hgt:191cm ecl:grn
-
-hgt:193cm pid:750729809 ecl:oth
-cid:324
-iyr:2011 hcl:#efcc98 byr:1954 eyr:2020
-
-byr:1966 iyr:2019 eyr:2025 ecl:#2df4b6
-hgt:184cm pid:#fc17f4 cid:161 hcl:#602927
-
-byr:1955 hcl:299464 ecl:amb
-hgt:157cm iyr:2017 eyr:2021
-pid:239450987
-
-hgt:172cm
-ecl:hzl
-pid:839804598
-hcl:#341e13 eyr:2030 byr:1964 iyr:2013
-
-iyr:2018 hgt:152cm byr:1948 hcl:#623a2f pid:400121515
-ecl:blu
-eyr:2020
-
-cid:296
-ecl:grn
-byr:1960 iyr:2028 pid:#1f4b95 eyr:2033 hcl:#602927
-hgt:66cm
-
-iyr:1933 ecl:#232e20 pid:#d03ca7
-eyr:2030 hcl:598ed6 hgt:154in byr:2011
-
-cid:247 ecl:grn iyr:2014
-hgt:178cm
-byr:1992 hcl:#602927 eyr:2021
-pid:678964478
-
-iyr:2010 pid:623705680
-ecl:hzl hgt:181cm byr:1980 hcl:#341e13 eyr:2028
+dotted blue bags contain 5 wavy green bags, 3 pale beige bags.
+dull lime bags contain 1 dotted olive bag, 3 dim brown bags.
+mirrored magenta bags contain 3 mirrored gray bags, 2 plaid beige bags, 4 dull brown bags, 3 pale plum bags.
+posh coral bags contain 2 light blue bags, 2 dotted purple bags, 1 pale fuchsia bag, 2 light cyan bags.
+bright orange bags contain 2 shiny chartreuse bags.
+plaid salmon bags contain 1 faded coral bag, 4 clear lavender bags, 5 wavy tan bags.
+wavy lavender bags contain 2 drab purple bags, 2 light brown bags, 2 wavy tomato bags, 1 mirrored plum bag.
+clear indigo bags contain 4 dark magenta bags, 2 shiny brown bags.
+posh salmon bags contain 4 dull tomato bags, 3 drab black bags, 5 mirrored chartreuse bags, 4 shiny blue bags.
+mirrored coral bags contain 4 faded aqua bags, 2 plaid plum bags, 5 striped tan bags, 5 wavy tomato bags.
+dotted purple bags contain 1 faded gold bag.
+bright purple bags contain 2 muted indigo bags, 3 pale maroon bags, 4 dim coral bags, 2 dark blue bags.
+drab olive bags contain 2 shiny coral bags.
+dim orange bags contain 1 faded turquoise bag.
+drab aqua bags contain 1 faded black bag, 4 clear lavender bags.
+bright salmon bags contain 2 bright aqua bags.
+dim brown bags contain 1 bright yellow bag, 3 faded cyan bags, 4 dotted chartreuse bags.
+clear tan bags contain 2 posh tomato bags, 4 bright tan bags, 1 mirrored gray bag.
+faded beige bags contain 2 mirrored olive bags, 5 dark chartreuse bags.
+drab chartreuse bags contain 1 shiny white bag.
+faded coral bags contain 4 dotted green bags, 2 dim violet bags, 3 striped magenta bags.
+vibrant crimson bags contain 5 shiny gray bags, 2 muted black bags, 2 posh brown bags.
+mirrored aqua bags contain 5 bright brown bags, 3 mirrored tomato bags, 3 bright bronze bags, 1 shiny magenta bag.
+dotted salmon bags contain 2 muted tan bags, 4 light bronze bags.
+vibrant salmon bags contain 5 dull yellow bags, 5 wavy tan bags, 3 light fuchsia bags, 1 drab tan bag.
+vibrant olive bags contain 2 pale white bags, 2 dull coral bags, 1 mirrored magenta bag, 2 clear crimson bags.
+shiny plum bags contain 3 dotted chartreuse bags, 1 striped tomato bag, 4 clear indigo bags.
+pale fuchsia bags contain 1 mirrored indigo bag, 2 plaid aqua bags, 1 striped teal bag, 4 drab salmon bags.
+wavy beige bags contain 1 mirrored coral bag, 1 bright plum bag, 2 dark lavender bags.
+drab silver bags contain 5 vibrant gold bags, 5 pale gray bags.
+light salmon bags contain 2 drab chartreuse bags, 3 faded gray bags, 3 pale gray bags, 1 clear olive bag.
+faded red bags contain 5 dull chartreuse bags, 2 plaid aqua bags.
+clear maroon bags contain 2 muted lavender bags.
+dull green bags contain 3 pale olive bags, 5 vibrant gold bags, 2 clear teal bags, 5 dotted plum bags.
+striped white bags contain 1 dim cyan bag.
+pale coral bags contain 5 dim purple bags, 3 faded silver bags, 3 dim blue bags, 3 dotted brown bags.
+drab green bags contain 5 pale teal bags.
+posh tomato bags contain 4 drab fuchsia bags, 5 dark brown bags.
+shiny chartreuse bags contain 5 dim maroon bags, 5 dull indigo bags, 5 pale purple bags, 3 vibrant gold bags.
+dark plum bags contain 4 muted tan bags.
+faded green bags contain 4 drab lavender bags.
+pale tomato bags contain 3 bright maroon bags, 4 pale turquoise bags, 4 dark gold bags, 3 dull indigo bags.
+striped aqua bags contain 1 dull gray bag, 5 dim blue bags, 5 wavy cyan bags.
+dotted lavender bags contain 4 pale plum bags, 2 bright coral bags.
+light gold bags contain 3 light tan bags, 4 clear indigo bags, 3 shiny tan bags.
+striped maroon bags contain 5 drab tan bags, 1 pale black bag.
+plaid black bags contain 3 dull fuchsia bags.
+dim beige bags contain 1 dim teal bag, 1 muted salmon bag.
+mirrored teal bags contain 2 bright coral bags, 4 dotted brown bags, 5 vibrant white bags, 3 clear magenta bags.
+faded gold bags contain no other bags.
+faded yellow bags contain 1 faded brown bag, 3 clear tomato bags.
+bright violet bags contain 1 faded lime bag, 5 dark chartreuse bags, 1 shiny black bag, 3 vibrant yellow bags.
+shiny fuchsia bags contain 2 dotted plum bags.
+dim aqua bags contain 1 dim cyan bag.
+dotted fuchsia bags contain 5 muted blue bags, 1 pale brown bag, 2 shiny salmon bags.
+dim fuchsia bags contain 3 muted tomato bags, 2 striped lime bags, 2 clear white bags, 2 striped blue bags.
+faded teal bags contain 1 wavy gold bag, 1 clear coral bag, 3 pale crimson bags.
+dull plum bags contain 1 bright tan bag, 5 light violet bags, 5 shiny black bags.
+light cyan bags contain 1 mirrored turquoise bag, 1 dim gray bag, 5 faded white bags.
+vibrant cyan bags contain 1 dotted gold bag, 1 mirrored indigo bag.
+bright coral bags contain 1 pale lavender bag, 3 mirrored olive bags, 3 muted tan bags.
+dim chartreuse bags contain 3 pale white bags, 5 faded white bags, 3 mirrored magenta bags, 5 faded black bags.
+pale green bags contain 3 faded white bags, 5 dotted lavender bags.
+wavy gray bags contain 3 wavy tomato bags, 4 dull gray bags, 4 shiny teal bags, 5 pale beige bags.
+dotted cyan bags contain 4 bright white bags.
+shiny olive bags contain 2 wavy chartreuse bags, 5 dim chartreuse bags, 4 pale gold bags, 1 posh crimson bag.
+drab maroon bags contain 3 clear olive bags, 4 dotted blue bags, 4 dim magenta bags.
+striped purple bags contain 4 wavy beige bags, 1 pale orange bag, 1 pale brown bag.
+dull olive bags contain 2 vibrant yellow bags.
+faded tomato bags contain 4 light turquoise bags.
+dotted maroon bags contain 2 faded cyan bags, 3 muted tomato bags, 1 shiny aqua bag, 3 bright orange bags.
+wavy turquoise bags contain 1 drab magenta bag.
+plaid green bags contain 1 light blue bag, 1 mirrored silver bag, 5 striped gold bags.
+drab indigo bags contain 5 dull aqua bags.
+plaid crimson bags contain 1 posh yellow bag, 5 shiny cyan bags.
+drab salmon bags contain 3 bright lavender bags, 4 bright violet bags, 1 mirrored brown bag, 4 shiny gold bags.
+dim turquoise bags contain 5 wavy brown bags, 4 mirrored yellow bags.
+pale bronze bags contain 2 dotted bronze bags, 5 dim purple bags, 1 plaid red bag.
+striped blue bags contain 5 drab fuchsia bags.
+wavy aqua bags contain 5 posh plum bags, 1 striped bronze bag, 4 dark magenta bags.
+posh beige bags contain 1 faded lime bag, 3 wavy white bags, 2 mirrored gray bags.
+plaid magenta bags contain 4 light olive bags, 3 faded salmon bags.
+plaid gray bags contain 1 light indigo bag, 5 muted indigo bags.
+mirrored white bags contain 3 muted gray bags, 4 dotted beige bags, 5 dotted salmon bags, 5 muted gold bags.
+dull chartreuse bags contain 3 muted gray bags.
+faded cyan bags contain 4 light violet bags, 4 faded lime bags, 2 bright silver bags, 3 pale olive bags.
+mirrored red bags contain 1 dotted violet bag, 5 bright plum bags, 2 pale violet bags, 4 pale plum bags.
+shiny purple bags contain 2 pale magenta bags, 2 shiny fuchsia bags.
+vibrant plum bags contain 5 light bronze bags, 3 plaid lavender bags, 1 shiny coral bag, 2 vibrant yellow bags.
+shiny lime bags contain 1 posh black bag.
+mirrored salmon bags contain 5 dull magenta bags, 2 clear gray bags, 1 dim indigo bag, 4 light brown bags.
+dotted violet bags contain 2 pale violet bags.
+muted orange bags contain 5 dark coral bags, 3 mirrored tomato bags, 1 dotted green bag.
+bright lime bags contain 3 shiny gold bags, 4 plaid lavender bags, 3 dull gold bags.
+pale lavender bags contain no other bags.
+clear aqua bags contain 2 plaid turquoise bags.
+clear white bags contain 4 shiny coral bags, 5 striped gold bags, 2 mirrored magenta bags.
+clear chartreuse bags contain 1 posh lime bag.
+wavy silver bags contain 3 clear orange bags, 2 clear lavender bags.
+posh cyan bags contain 1 shiny crimson bag.
+light plum bags contain 1 plaid lavender bag.
+dim lime bags contain 5 bright crimson bags, 3 dark green bags, 2 vibrant green bags, 3 pale maroon bags.
+dim coral bags contain 4 muted crimson bags, 1 mirrored plum bag.
+pale salmon bags contain 5 wavy orange bags, 4 dotted gold bags, 4 posh brown bags.
+faded chartreuse bags contain 1 dotted chartreuse bag, 3 wavy orange bags.
+faded olive bags contain 5 pale blue bags, 3 dim yellow bags, 1 dotted gray bag, 2 dim crimson bags.
+clear lime bags contain 3 dull fuchsia bags, 4 wavy red bags.
+bright blue bags contain 3 mirrored violet bags, 3 pale gold bags, 4 drab salmon bags, 5 dull silver bags.
+muted maroon bags contain 5 dull salmon bags, 3 dim gray bags.
+clear teal bags contain 2 muted tomato bags, 4 faded turquoise bags.
+shiny white bags contain 1 posh red bag, 3 dotted red bags.
+light magenta bags contain 4 drab olive bags.
+vibrant coral bags contain 5 pale lavender bags, 5 plaid red bags.
+wavy yellow bags contain 3 vibrant beige bags, 4 muted crimson bags, 4 bright white bags, 1 pale maroon bag.
+bright black bags contain 2 striped maroon bags.
+plaid lavender bags contain 1 drab turquoise bag.
+light crimson bags contain 2 wavy chartreuse bags.
+muted salmon bags contain 2 bright orange bags, 3 dotted plum bags, 3 light magenta bags.
+striped teal bags contain 4 dark chartreuse bags, 1 dim maroon bag.
+dull bronze bags contain no other bags.
+dotted bronze bags contain 1 striped orange bag, 5 shiny cyan bags, 2 muted tan bags.
+dark gold bags contain 3 pale plum bags, 3 mirrored olive bags.
+mirrored lime bags contain 3 dim maroon bags, 3 light violet bags, 2 mirrored turquoise bags, 3 vibrant yellow bags.
+clear violet bags contain 2 drab salmon bags, 4 pale gray bags, 4 striped tan bags, 5 mirrored blue bags.
+plaid beige bags contain 3 dull gold bags.
+shiny salmon bags contain 3 dark chartreuse bags, 4 bright yellow bags, 5 dark gold bags, 2 muted tomato bags.
+dull brown bags contain 1 bright silver bag, 4 muted tan bags.
+dull orange bags contain 1 dim bronze bag.
+vibrant lavender bags contain 4 dotted violet bags, 3 striped lime bags.
+light blue bags contain 2 shiny teal bags, 5 striped orange bags, 5 shiny gray bags.
+plaid teal bags contain 4 dark turquoise bags, 4 posh indigo bags, 1 mirrored tan bag.
+drab black bags contain 4 vibrant chartreuse bags, 4 dim turquoise bags.
+light beige bags contain 3 pale aqua bags.
+mirrored gray bags contain 5 dark chartreuse bags.
+faded black bags contain 4 shiny salmon bags.
+light yellow bags contain 1 dotted magenta bag.
+bright red bags contain 5 bright bronze bags, 3 dull white bags, 3 dim plum bags, 3 light tan bags.
+mirrored lavender bags contain 5 faded chartreuse bags.
+shiny coral bags contain 3 plaid chartreuse bags, 1 pale lavender bag.
+clear bronze bags contain 4 mirrored silver bags, 1 dim coral bag, 3 posh teal bags.
+dotted yellow bags contain 1 bright crimson bag, 5 dotted olive bags.
+light bronze bags contain 4 dim maroon bags, 3 shiny crimson bags.
+wavy tomato bags contain 5 dull red bags, 3 wavy cyan bags, 4 dark gold bags.
+dotted turquoise bags contain 5 muted silver bags.
+posh orange bags contain 2 bright beige bags, 5 vibrant chartreuse bags, 3 drab green bags.
+wavy bronze bags contain 1 dark coral bag.
+plaid tan bags contain 1 vibrant bronze bag.
+wavy red bags contain 4 dotted gray bags, 2 pale purple bags, 1 bright tan bag.
+dull turquoise bags contain 4 dull crimson bags.
+faded brown bags contain 5 muted teal bags.
+dark violet bags contain 1 dim gold bag, 1 dim beige bag, 5 dull orange bags.
+bright brown bags contain 1 plaid aqua bag, 4 light cyan bags.
+dull teal bags contain 4 shiny teal bags.
+dotted white bags contain 3 pale black bags, 2 drab black bags, 5 faded fuchsia bags, 1 plaid black bag.
+dark magenta bags contain 5 shiny teal bags, 4 pale purple bags.
+mirrored maroon bags contain 3 plaid chartreuse bags, 2 muted orange bags, 5 pale gray bags, 4 drab green bags.
+faded magenta bags contain 1 bright green bag, 5 pale lavender bags, 4 posh fuchsia bags, 2 pale teal bags.
+wavy violet bags contain 4 bright indigo bags.
+posh gold bags contain 1 bright green bag, 3 dim cyan bags.
+muted silver bags contain 3 light lime bags, 4 wavy indigo bags, 5 striped turquoise bags, 5 clear blue bags.
+muted fuchsia bags contain 2 pale olive bags, 1 light maroon bag, 3 plaid blue bags, 1 light blue bag.
+posh turquoise bags contain 3 light lime bags, 4 wavy tomato bags, 3 vibrant blue bags, 3 posh fuchsia bags.
+dull purple bags contain 1 striped tan bag, 2 vibrant tomato bags, 2 dim brown bags, 2 shiny fuchsia bags.
+light fuchsia bags contain 2 mirrored turquoise bags, 4 striped lime bags, 4 faded white bags.
+dull gold bags contain 5 plaid tan bags, 2 light bronze bags, 1 striped tan bag.
+wavy olive bags contain 4 vibrant maroon bags, 1 drab salmon bag.
+pale beige bags contain 1 wavy white bag, 1 dotted orange bag, 4 dim gray bags.
+clear crimson bags contain 4 dull blue bags.
+dotted tomato bags contain 5 dotted olive bags.
+drab purple bags contain 1 striped tan bag, 3 mirrored olive bags, 4 mirrored turquoise bags.
+plaid red bags contain 2 bright cyan bags, 5 pale lavender bags, 3 dark chartreuse bags, 1 dotted plum bag.
+posh silver bags contain 5 light olive bags, 5 bright white bags, 5 light violet bags, 4 faded orange bags.
+muted teal bags contain 2 wavy violet bags.
+light red bags contain 2 dull white bags, 4 drab fuchsia bags.
+bright crimson bags contain 4 light lavender bags, 2 dotted plum bags.
+plaid purple bags contain 5 dull magenta bags, 5 light lavender bags.
+dark gray bags contain 4 dull plum bags, 5 muted tomato bags, 3 drab brown bags.
+vibrant gray bags contain 4 posh black bags.
+plaid fuchsia bags contain 1 posh lime bag.
+striped chartreuse bags contain 4 posh teal bags, 1 bright purple bag, 1 clear white bag.
+dull fuchsia bags contain 3 bright brown bags, 3 striped olive bags, 2 faded white bags.
+muted beige bags contain 4 drab chartreuse bags.
+vibrant beige bags contain 4 striped crimson bags.
+vibrant indigo bags contain 5 dull plum bags, 1 dull maroon bag, 2 striped white bags.
+dull silver bags contain 5 dull white bags, 2 dull gold bags, 4 shiny cyan bags, 4 wavy gold bags.
+dim blue bags contain 5 posh yellow bags, 5 dim maroon bags.
+posh white bags contain 4 dim teal bags, 4 light brown bags.
+mirrored tomato bags contain 1 posh purple bag, 3 striped aqua bags.
+light black bags contain 1 mirrored chartreuse bag, 3 muted yellow bags, 4 muted tan bags.
+plaid silver bags contain 2 dull beige bags, 5 bright tan bags, 5 posh tomato bags.
+shiny violet bags contain 1 plaid beige bag, 3 faded teal bags, 4 dotted tomato bags, 1 shiny orange bag.
+dull black bags contain 5 vibrant coral bags, 2 clear orange bags.
+dim white bags contain 5 drab brown bags, 2 plaid lavender bags.
+wavy salmon bags contain 5 dull white bags, 5 vibrant crimson bags, 2 posh silver bags, 1 dim purple bag.
+dark green bags contain 1 dull magenta bag, 3 light tomato bags, 1 pale olive bag, 5 pale brown bags.
+light chartreuse bags contain 1 dotted silver bag, 3 bright maroon bags, 4 vibrant silver bags, 5 bright coral bags.
+dim green bags contain 3 wavy bronze bags, 3 bright tan bags, 1 dotted magenta bag.
+shiny tan bags contain 3 striped turquoise bags, 4 drab brown bags, 2 wavy tan bags, 3 light fuchsia bags.
+muted lime bags contain 4 dark yellow bags, 5 vibrant blue bags.
+dark coral bags contain 5 plaid chartreuse bags.
+striped fuchsia bags contain 4 light lavender bags, 4 dull gray bags, 5 wavy cyan bags, 2 striped orange bags.
+shiny maroon bags contain 3 striped olive bags, 5 dull green bags, 4 shiny cyan bags.
+dotted red bags contain 5 light violet bags, 4 plaid chartreuse bags.
+dim salmon bags contain 1 dim blue bag, 3 dotted indigo bags, 4 pale crimson bags, 3 drab blue bags.
+pale magenta bags contain 5 pale violet bags, 1 dark blue bag.
+clear coral bags contain 2 faded turquoise bags, 2 shiny cyan bags, 4 dull red bags.
+dim black bags contain 4 dim aqua bags, 5 pale blue bags.
+clear cyan bags contain 2 light violet bags, 5 drab salmon bags, 4 dark teal bags.
+dull gray bags contain 2 bright lavender bags, 3 pale plum bags, 5 dull plum bags.
+dull salmon bags contain 4 posh violet bags, 3 mirrored indigo bags, 3 plaid tomato bags.
+pale cyan bags contain 2 pale chartreuse bags, 4 light brown bags, 1 plaid beige bag, 3 light maroon bags.
+faded indigo bags contain 3 dim maroon bags, 3 mirrored violet bags.
+wavy orange bags contain 3 plaid purple bags.
+dim plum bags contain 2 wavy tomato bags.
+pale turquoise bags contain 2 faded lime bags.
+drab orange bags contain 2 mirrored turquoise bags, 5 plaid tomato bags, 3 dotted blue bags, 5 wavy red bags.
+mirrored cyan bags contain 5 muted chartreuse bags, 4 dim cyan bags, 5 posh fuchsia bags.
+vibrant purple bags contain 5 dotted turquoise bags.
+posh red bags contain 4 faded turquoise bags, 2 light violet bags.
+muted crimson bags contain 5 shiny fuchsia bags.
+drab magenta bags contain 1 dull fuchsia bag.
+wavy tan bags contain 1 mirrored plum bag.
+vibrant tomato bags contain 3 plaid blue bags, 3 clear fuchsia bags, 5 dark yellow bags.
+mirrored gold bags contain 3 muted purple bags, 5 dark indigo bags, 5 dotted brown bags, 1 mirrored olive bag.
+mirrored plum bags contain 3 faded turquoise bags.
+muted gray bags contain 4 light bronze bags.
+light olive bags contain 3 bright lavender bags, 4 wavy orange bags, 3 clear lavender bags.
+faded tan bags contain 4 vibrant red bags, 1 drab bronze bag, 5 mirrored plum bags.
+posh plum bags contain 4 dotted gold bags, 4 dotted plum bags, 2 vibrant gold bags.
+faded maroon bags contain 5 dim red bags.
+drab teal bags contain 5 faded chartreuse bags, 2 faded silver bags.
+clear black bags contain 2 pale red bags, 3 plaid black bags.
+mirrored indigo bags contain 3 dim chartreuse bags, 1 wavy violet bag, 1 dull green bag.
+pale teal bags contain 4 wavy indigo bags.
+drab cyan bags contain 4 dotted plum bags, 5 dim red bags.
+striped salmon bags contain 4 clear olive bags, 4 wavy orange bags.
+faded bronze bags contain 5 mirrored olive bags, 2 dark green bags.
+muted magenta bags contain 2 mirrored beige bags, 1 wavy orange bag, 3 light salmon bags.
+wavy plum bags contain 5 light cyan bags, 2 drab turquoise bags.
+dark lavender bags contain 2 dim coral bags.
+faded lavender bags contain 4 wavy bronze bags, 3 dim yellow bags.
+dark maroon bags contain 5 striped orange bags.
+clear fuchsia bags contain 1 dull brown bag, 4 posh red bags, 3 plaid purple bags.
+shiny magenta bags contain 2 striped maroon bags, 5 mirrored olive bags, 2 drab lime bags.
+wavy coral bags contain 4 posh maroon bags, 5 dim white bags, 5 pale indigo bags, 5 dotted maroon bags.
+dark silver bags contain 3 posh plum bags.
+shiny blue bags contain 1 wavy indigo bag, 4 dark magenta bags, 4 light turquoise bags.
+clear lavender bags contain 1 bright violet bag, 4 wavy cyan bags, 2 dim blue bags, 5 posh violet bags.
+shiny orange bags contain 2 pale tomato bags, 1 pale teal bag.
+mirrored beige bags contain 5 dotted gold bags, 1 faded violet bag, 4 striped gray bags.
+bright cyan bags contain 4 muted tomato bags, 1 drab turquoise bag, 4 bright yellow bags.
+vibrant fuchsia bags contain 4 striped tan bags, 1 dark black bag, 4 plaid olive bags, 2 wavy aqua bags.
+pale olive bags contain 4 posh yellow bags, 4 pale plum bags.
+dotted crimson bags contain 3 dim gray bags, 1 mirrored lime bag.
+vibrant orange bags contain 5 striped orange bags, 3 plaid blue bags.
+light brown bags contain 4 dotted chartreuse bags.
+muted plum bags contain 1 muted indigo bag, 5 plaid yellow bags, 1 vibrant silver bag, 1 drab turquoise bag.
+dotted chartreuse bags contain 5 dotted red bags, 5 light lavender bags, 4 pale black bags, 3 muted tomato bags.
+bright chartreuse bags contain 5 dim salmon bags, 5 shiny salmon bags, 4 bright plum bags, 2 dark lavender bags.
+dim gray bags contain 3 dull indigo bags.
+faded fuchsia bags contain 2 muted blue bags, 1 mirrored blue bag, 2 dotted green bags, 5 mirrored olive bags.
+striped tomato bags contain 4 dull gray bags, 1 vibrant plum bag, 3 mirrored coral bags.
+clear turquoise bags contain 4 light orange bags, 3 faded black bags, 5 mirrored lavender bags, 5 posh white bags.
+dotted gray bags contain 4 mirrored turquoise bags, 5 light lavender bags, 1 vibrant yellow bag, 4 dull bronze bags.
+shiny beige bags contain 3 plaid silver bags, 2 faded chartreuse bags, 2 vibrant lavender bags, 2 wavy olive bags.
+pale red bags contain 4 mirrored olive bags.
+mirrored silver bags contain 2 vibrant maroon bags, 5 plaid chartreuse bags, 4 vibrant plum bags, 5 faded white bags.
+plaid aqua bags contain 5 faded aqua bags, 4 dotted fuchsia bags.
+dull yellow bags contain 5 bright turquoise bags, 3 posh plum bags, 1 pale white bag.
+faded orange bags contain 3 dotted bronze bags, 1 mirrored tan bag.
+wavy green bags contain 1 wavy turquoise bag.
+posh tan bags contain 5 striped lavender bags, 4 posh tomato bags.
+wavy crimson bags contain 4 pale lavender bags, 2 mirrored tan bags, 5 plaid beige bags.
+striped yellow bags contain 3 shiny green bags, 5 dark gold bags, 4 drab teal bags, 3 drab olive bags.
+pale plum bags contain 2 dull indigo bags, 1 dotted plum bag, 1 bright yellow bag.
+pale yellow bags contain 2 bright green bags, 5 dull beige bags, 3 light coral bags, 3 dull red bags.
+striped silver bags contain 1 clear crimson bag, 4 shiny salmon bags.
+bright silver bags contain 2 shiny black bags, 3 faded gold bags, 5 bright yellow bags.
+shiny red bags contain 1 pale turquoise bag, 5 shiny beige bags.
+posh chartreuse bags contain 5 dotted maroon bags, 5 shiny bronze bags, 1 shiny cyan bag, 3 pale aqua bags.
+wavy teal bags contain 4 mirrored plum bags, 4 drab silver bags, 3 pale green bags, 1 mirrored lime bag.
+posh olive bags contain 2 dim salmon bags, 1 faded black bag, 1 light lime bag.
+dark fuchsia bags contain 3 mirrored indigo bags.
+dark cyan bags contain 4 muted indigo bags, 4 shiny crimson bags, 2 drab turquoise bags.
+posh magenta bags contain 5 bright blue bags, 1 dull turquoise bag.
+muted red bags contain 3 light violet bags, 2 dark cyan bags.
+vibrant gold bags contain 2 dotted chartreuse bags, 5 pale brown bags, 1 mirrored brown bag, 5 plaid lavender bags.
+muted purple bags contain 3 dim blue bags, 3 wavy red bags, 1 clear lavender bag.
+dim magenta bags contain 5 muted tan bags, 4 striped olive bags, 5 vibrant gold bags.
+faded plum bags contain 1 faded black bag, 1 muted green bag.
+light violet bags contain 3 mirrored turquoise bags, 1 dull bronze bag.
+faded salmon bags contain 1 pale salmon bag, 1 light teal bag.
+posh black bags contain 2 wavy purple bags.
+plaid white bags contain 1 shiny salmon bag, 3 posh purple bags.
+mirrored green bags contain 3 bright tan bags, 1 plaid white bag, 3 mirrored plum bags.
+dark red bags contain 2 bright purple bags, 2 muted white bags, 5 drab cyan bags, 5 plaid olive bags.
+vibrant teal bags contain 5 striped olive bags, 1 pale olive bag.
+dotted green bags contain 3 dark cyan bags.
+dark indigo bags contain 3 bright brown bags, 3 drab white bags, 2 muted purple bags, 2 plaid silver bags.
+drab tan bags contain 3 dotted gray bags, 2 faded black bags, 1 dull brown bag, 2 drab salmon bags.
+vibrant chartreuse bags contain 5 pale brown bags.
+mirrored olive bags contain 2 dim blue bags, 2 shiny gold bags, 4 light lavender bags.
+light silver bags contain 3 drab orange bags, 5 light plum bags, 2 dotted olive bags.
+light indigo bags contain 4 pale yellow bags, 1 vibrant violet bag, 4 dull cyan bags, 5 dotted tomato bags.
+pale orange bags contain 4 pale silver bags, 4 vibrant tomato bags.
+vibrant bronze bags contain 5 dark yellow bags.
+dull beige bags contain 4 dotted gray bags, 4 pale lavender bags, 5 light lavender bags, 3 shiny coral bags.
+bright gray bags contain 3 bright silver bags.
+vibrant green bags contain 4 muted tan bags, 3 light lavender bags, 5 light magenta bags.
+plaid violet bags contain 4 bright lime bags, 2 mirrored olive bags, 4 faded blue bags.
+striped bronze bags contain 1 plaid chartreuse bag.
+dim crimson bags contain 3 bright yellow bags, 1 dull gray bag.
+posh purple bags contain 3 light fuchsia bags, 5 pale black bags, 5 wavy orange bags, 3 drab blue bags.
+clear beige bags contain 4 plaid black bags.
+striped gray bags contain 2 pale green bags, 4 light fuchsia bags.
+plaid olive bags contain 2 mirrored gray bags.
+muted green bags contain 1 plaid coral bag.
+clear salmon bags contain 4 muted black bags, 1 bright white bag, 1 drab tomato bag, 2 shiny orange bags.
+dark aqua bags contain 5 light bronze bags, 1 wavy turquoise bag.
+drab tomato bags contain 5 dim chartreuse bags.
+wavy magenta bags contain 3 posh brown bags.
+dull crimson bags contain 1 mirrored tan bag, 4 dotted crimson bags, 5 vibrant indigo bags.
+plaid turquoise bags contain 1 dark bronze bag, 4 bright maroon bags.
+dim cyan bags contain 4 plaid red bags, 4 bright silver bags, 5 vibrant gold bags.
+faded blue bags contain 3 plaid salmon bags, 3 clear cyan bags, 1 wavy aqua bag, 4 mirrored teal bags.
+light orange bags contain 4 posh chartreuse bags, 3 shiny maroon bags, 4 dim teal bags, 4 drab chartreuse bags.
+bright white bags contain 5 drab chartreuse bags.
+clear red bags contain 1 dull magenta bag, 1 light cyan bag.
+drab gold bags contain 4 plaid violet bags, 5 muted gold bags.
+muted chartreuse bags contain 1 plaid crimson bag, 4 vibrant red bags, 1 drab turquoise bag, 5 posh black bags.
+mirrored black bags contain 1 dim white bag, 1 clear gold bag.
+bright indigo bags contain 1 vibrant gold bag, 2 pale purple bags.
+muted indigo bags contain 2 dull plum bags.
+striped tan bags contain 2 dotted chartreuse bags.
+dim tan bags contain 2 dim red bags, 4 light violet bags, 1 clear beige bag.
+muted tomato bags contain 1 faded gold bag, 2 bright yellow bags, 3 dotted plum bags.
+vibrant turquoise bags contain 2 light tan bags, 4 wavy salmon bags, 1 dark tan bag, 1 dull tan bag.
+dotted magenta bags contain 4 plaid blue bags, 1 plaid turquoise bag, 5 striped silver bags.
+dark orange bags contain 3 faded bronze bags.
+light tomato bags contain 2 dull bronze bags, 1 pale brown bag, 4 bright violet bags.
+dim teal bags contain 5 dull brown bags.
+muted lavender bags contain 4 dark yellow bags, 4 shiny teal bags, 2 faded aqua bags, 5 wavy cyan bags.
+bright beige bags contain 3 muted black bags, 4 bright blue bags.
+light purple bags contain 1 pale lavender bag, 2 shiny aqua bags.
+plaid blue bags contain 4 dull beige bags, 3 dull brown bags, 3 dotted crimson bags.
+striped lavender bags contain 3 dotted chartreuse bags.
+bright tomato bags contain 1 posh violet bag, 3 shiny aqua bags.
+wavy indigo bags contain 4 mirrored olive bags, 1 faded turquoise bag, 1 vibrant coral bag, 4 bright gray bags.
+pale black bags contain 5 bright silver bags, 3 mirrored turquoise bags.
+mirrored turquoise bags contain no other bags.
+bright plum bags contain 2 faded turquoise bags.
+shiny yellow bags contain 1 clear gold bag.
+plaid bronze bags contain 1 dotted teal bag, 3 faded white bags, 2 shiny green bags.
+striped beige bags contain 3 vibrant teal bags.
+wavy cyan bags contain 5 posh yellow bags.
+light tan bags contain 2 vibrant red bags.
+pale brown bags contain 2 bright yellow bags, 4 pale lavender bags, 5 mirrored turquoise bags, 1 drab turquoise bag.
+bright teal bags contain 3 dark green bags, 2 dull white bags.
+drab yellow bags contain 5 dotted purple bags.
+shiny cyan bags contain 4 vibrant yellow bags.
+vibrant silver bags contain 5 mirrored yellow bags, 5 dull indigo bags, 3 faded cyan bags, 4 faded turquoise bags.
+clear plum bags contain 4 pale lavender bags.
+posh teal bags contain 2 muted tan bags.
+striped crimson bags contain 1 dull plum bag, 2 shiny fuchsia bags, 4 dim maroon bags, 3 bright yellow bags.
+dull lavender bags contain 2 clear fuchsia bags, 5 pale silver bags, 5 dim salmon bags, 4 muted salmon bags.
+posh indigo bags contain 5 faded chartreuse bags, 5 dark green bags, 5 dark blue bags.
+wavy blue bags contain 5 muted yellow bags.
+dull magenta bags contain 5 pale brown bags.
+mirrored bronze bags contain 3 posh turquoise bags.
+posh aqua bags contain 1 dim white bag, 2 clear tomato bags, 2 pale maroon bags.
+pale purple bags contain 2 dotted fuchsia bags.
+mirrored chartreuse bags contain 5 plaid yellow bags, 5 posh tan bags, 4 vibrant silver bags, 3 drab green bags.
+dotted black bags contain 5 muted aqua bags, 1 wavy lime bag, 2 bright lime bags.
+plaid chartreuse bags contain 2 bright yellow bags, 2 faded gold bags, 1 pale lavender bag.
+dotted plum bags contain 4 dull bronze bags, 4 dim blue bags.
+clear gold bags contain 2 bright tan bags, 5 wavy teal bags.
+dark crimson bags contain 4 bright teal bags, 2 wavy gray bags, 1 bright chartreuse bag.
+faded gray bags contain 2 mirrored magenta bags.
+dim gold bags contain 3 drab white bags.
+clear green bags contain 2 pale beige bags.
+dotted gold bags contain 3 dull indigo bags.
+striped lime bags contain 2 dotted chartreuse bags.
+clear brown bags contain 4 dark olive bags, 2 striped yellow bags, 4 dotted red bags, 5 dotted plum bags.
+striped gold bags contain 1 wavy white bag, 3 posh tomato bags, 4 light magenta bags.
+muted brown bags contain 1 clear gold bag.
+plaid tomato bags contain 4 plaid plum bags, 2 pale chartreuse bags.
+dark salmon bags contain 5 pale plum bags, 3 striped lime bags, 4 dotted gray bags.
+drab brown bags contain 1 wavy orange bag, 4 dark cyan bags, 1 drab white bag.
+pale gray bags contain 3 bright crimson bags, 1 bright yellow bag.
+plaid maroon bags contain 1 pale coral bag.
+dim violet bags contain 5 wavy blue bags, 4 shiny coral bags, 4 pale black bags, 3 posh yellow bags.
+faded white bags contain 2 pale plum bags.
+mirrored orange bags contain 3 striped maroon bags, 1 dull bronze bag, 2 pale aqua bags.
+wavy black bags contain 1 faded violet bag, 1 plaid purple bag, 5 dim coral bags, 2 mirrored plum bags.
+dim silver bags contain 2 muted brown bags, 1 posh plum bag.
+dark tomato bags contain 5 dull magenta bags, 2 faded aqua bags, 3 vibrant lime bags, 3 drab silver bags.
+dotted silver bags contain 2 dotted red bags.
+muted yellow bags contain 4 drab purple bags, 3 striped olive bags.
+shiny lavender bags contain 5 plaid purple bags, 2 vibrant crimson bags, 4 dull olive bags.
+clear tomato bags contain 4 shiny bronze bags.
+dark turquoise bags contain 5 dim brown bags.
+drab coral bags contain 3 dull orange bags.
+dotted beige bags contain 1 wavy lavender bag, 5 dull orange bags, 4 dull lime bags, 3 dull blue bags.
+dark teal bags contain 3 muted indigo bags, 5 dark gold bags, 3 dull green bags, 2 plaid tan bags.
+light lavender bags contain 2 dim maroon bags, 4 muted tomato bags, 4 dull plum bags.
+dim lavender bags contain 4 light magenta bags, 4 shiny fuchsia bags, 5 wavy chartreuse bags, 1 faded chartreuse bag.
+vibrant brown bags contain 4 dull bronze bags, 1 clear green bag, 3 posh orange bags, 3 mirrored silver bags.
+pale tan bags contain 3 bright tomato bags, 5 pale maroon bags, 3 wavy teal bags.
+muted black bags contain 1 light lime bag.
+posh lime bags contain 3 bright crimson bags, 4 posh beige bags, 1 bright cyan bag.
+light aqua bags contain 4 posh olive bags, 4 light tan bags, 4 wavy tan bags, 2 dotted blue bags.
+dotted tan bags contain 3 dark yellow bags, 4 posh silver bags, 3 dark beige bags.
+shiny black bags contain no other bags.
+mirrored fuchsia bags contain 1 bright purple bag, 3 posh lime bags, 5 dim black bags.
+dim purple bags contain 3 muted indigo bags.
+wavy white bags contain 2 pale olive bags.
+bright magenta bags contain 5 dull aqua bags, 3 dull green bags, 2 shiny turquoise bags.
+drab white bags contain 1 plaid yellow bag, 2 shiny green bags, 5 posh beige bags, 5 plaid tan bags.
+mirrored crimson bags contain 2 shiny teal bags.
+pale white bags contain 2 muted indigo bags.
+shiny bronze bags contain 5 mirrored crimson bags, 3 pale brown bags, 4 clear chartreuse bags.
+clear blue bags contain 1 drab chartreuse bag, 4 striped turquoise bags, 1 plaid aqua bag, 5 pale aqua bags.
+shiny brown bags contain 1 dotted bronze bag, 4 shiny fuchsia bags, 4 drab fuchsia bags, 4 dark lavender bags.
+dotted teal bags contain 4 dull olive bags, 4 clear black bags.
+posh gray bags contain 1 wavy salmon bag.
+dark white bags contain 4 pale lime bags, 4 plaid beige bags, 5 dull fuchsia bags, 1 pale yellow bag.
+dull cyan bags contain 4 muted lavender bags, 2 plaid tan bags, 2 dim blue bags.
+dark olive bags contain 2 dim indigo bags, 1 dark brown bag, 5 dark yellow bags, 4 dull gray bags.
+vibrant tan bags contain 4 bright tan bags, 1 pale tomato bag.
+drab beige bags contain 4 muted magenta bags, 2 bright plum bags, 3 pale beige bags.
+clear magenta bags contain 2 dull indigo bags, 5 vibrant green bags.
+posh yellow bags contain no other bags.
+vibrant magenta bags contain 2 dark green bags.
+posh blue bags contain 2 muted chartreuse bags, 3 vibrant coral bags.
+striped violet bags contain 1 dotted orange bag, 5 striped red bags, 5 dull lime bags.
+dark yellow bags contain 2 shiny turquoise bags.
+bright turquoise bags contain 2 bright yellow bags, 2 posh violet bags, 4 bright plum bags.
+pale silver bags contain 4 vibrant bronze bags, 4 faded purple bags, 1 shiny green bag, 1 plaid lavender bag.
+muted white bags contain 3 mirrored olive bags.
+light green bags contain 5 shiny plum bags, 4 pale lavender bags, 5 faded gold bags.
+drab lime bags contain 2 plaid beige bags.
+pale chartreuse bags contain 4 dotted brown bags, 1 dark black bag, 3 mirrored plum bags, 1 faded black bag.
+mirrored violet bags contain 5 plaid beige bags.
+vibrant white bags contain 5 muted tomato bags.
+faded violet bags contain 1 dull brown bag, 1 mirrored brown bag.
+drab bronze bags contain 3 dim indigo bags, 1 dim magenta bag, 1 bright gray bag.
+posh lavender bags contain 1 wavy black bag, 2 wavy magenta bags.
+vibrant aqua bags contain 2 light lavender bags, 1 faded crimson bag, 4 dark green bags, 3 mirrored white bags.
+bright green bags contain 1 dark gray bag.
+shiny turquoise bags contain 2 bright yellow bags.
+pale aqua bags contain 3 shiny gold bags, 2 drab silver bags, 3 drab salmon bags.
+faded silver bags contain 3 striped teal bags, 5 mirrored indigo bags.
+shiny indigo bags contain 3 wavy olive bags, 3 dim blue bags, 2 faded gold bags, 4 clear fuchsia bags.
+vibrant yellow bags contain 5 dark chartreuse bags, 3 dull indigo bags, 1 bright tan bag.
+shiny aqua bags contain 3 striped olive bags, 2 shiny teal bags, 5 pale teal bags.
+bright maroon bags contain 2 striped lime bags.
+dark purple bags contain 5 dotted brown bags, 1 bright olive bag, 3 drab orange bags, 1 mirrored olive bag.
+drab lavender bags contain 5 wavy beige bags, 4 bright gold bags, 3 wavy cyan bags.
+dull white bags contain 4 posh teal bags, 4 mirrored turquoise bags, 1 muted purple bag.
+clear silver bags contain 1 dull lime bag, 2 dim plum bags, 5 wavy maroon bags, 3 striped cyan bags.
+bright lavender bags contain 1 muted tomato bag.
+pale crimson bags contain 1 striped tan bag, 4 dotted red bags, 3 dotted fuchsia bags, 5 dull brown bags.
+posh maroon bags contain 3 dark magenta bags, 3 pale gray bags.
+vibrant lime bags contain 1 dull maroon bag, 4 light purple bags, 5 dull orange bags, 1 dull purple bag.
+drab turquoise bags contain no other bags.
+dark bronze bags contain 2 light tomato bags, 1 vibrant gold bag, 3 posh yellow bags, 5 light lavender bags.
+muted cyan bags contain 3 dotted black bags, 1 faded violet bag, 5 bright violet bags.
+dim tomato bags contain 3 drab chartreuse bags, 1 striped coral bag, 3 pale tan bags.
+light teal bags contain 3 pale gray bags.
+muted olive bags contain 1 dull green bag, 3 bright violet bags, 1 dark yellow bag.
+mirrored tan bags contain 3 dark salmon bags, 1 vibrant red bag, 1 dull gray bag.
+light turquoise bags contain 5 posh red bags, 1 dim chartreuse bag, 3 vibrant beige bags, 2 mirrored lavender bags.
+dark brown bags contain 2 clear fuchsia bags, 2 dull bronze bags, 3 striped aqua bags, 1 shiny gold bag.
+striped orange bags contain 3 shiny gold bags, 1 bright crimson bag, 3 vibrant gold bags.
+bright bronze bags contain 3 faded cyan bags, 3 dim blue bags, 2 faded gold bags, 2 bright tan bags.
+dotted orange bags contain 4 dim magenta bags, 1 faded white bag, 1 muted tan bag.
+dull red bags contain 3 posh yellow bags, 3 pale plum bags.
+clear orange bags contain 5 wavy chartreuse bags, 5 dull aqua bags, 1 faded bronze bag, 5 faded chartreuse bags.
+dark blue bags contain 2 striped lime bags.
+wavy brown bags contain 4 shiny green bags.
+wavy purple bags contain 2 dim maroon bags, 1 vibrant coral bag, 4 posh teal bags, 2 dark teal bags.
+muted tan bags contain 5 bright violet bags, 4 dotted red bags, 5 dull beige bags, 1 dim gray bag.
+posh crimson bags contain 3 dark bronze bags, 3 pale salmon bags, 2 muted beige bags, 2 bright aqua bags.
+pale blue bags contain 3 wavy black bags, 5 dotted brown bags, 5 drab chartreuse bags, 5 bright gray bags.
+striped plum bags contain 4 light turquoise bags.
+posh green bags contain 5 dull cyan bags, 4 muted tan bags, 1 faded silver bag, 3 vibrant black bags.
+mirrored yellow bags contain 5 shiny fuchsia bags, 3 bright tan bags, 4 drab fuchsia bags.
+striped brown bags contain 4 wavy turquoise bags.
+dim bronze bags contain 4 faded black bags, 1 striped lavender bag.
+plaid cyan bags contain 5 posh lime bags, 2 wavy white bags, 3 posh crimson bags.
+plaid brown bags contain 2 dark bronze bags.
+vibrant blue bags contain 4 wavy orange bags, 4 drab silver bags, 2 muted tan bags.
+dull violet bags contain 5 posh black bags, 4 shiny tomato bags.
+striped magenta bags contain 3 faded white bags, 1 vibrant bronze bag.
+striped coral bags contain 1 dull blue bag, 5 faded lime bags, 4 vibrant coral bags.
+plaid lime bags contain 1 shiny black bag, 3 mirrored coral bags.
+dim indigo bags contain 4 dim coral bags, 3 wavy indigo bags, 3 vibrant red bags, 3 wavy orange bags.
+pale violet bags contain 2 drab purple bags.
+striped turquoise bags contain 4 drab teal bags, 5 striped bronze bags.
+striped indigo bags contain 3 striped purple bags, 4 shiny beige bags.
+light coral bags contain 3 bright coral bags, 5 pale teal bags, 5 dull red bags, 3 mirrored tomato bags.
+drab plum bags contain 4 dull white bags, 3 clear crimson bags, 2 wavy lavender bags.
+dim maroon bags contain no other bags.
+shiny crimson bags contain 2 dull indigo bags, 1 bright cyan bag.
+dull aqua bags contain 3 dark yellow bags.
+drab violet bags contain 4 striped aqua bags.
+shiny gold bags contain 2 pale brown bags, 2 dotted chartreuse bags, 1 vibrant gold bag, 4 dull magenta bags.
+plaid indigo bags contain 4 striped purple bags, 3 clear brown bags.
+muted gold bags contain 1 shiny cyan bag.
+dotted lime bags contain 3 dotted olive bags, 4 light tan bags, 4 bright bronze bags, 3 vibrant plum bags.
+vibrant red bags contain 2 wavy red bags, 4 dotted chartreuse bags, 5 dim coral bags.
+faded lime bags contain 5 drab turquoise bags, 4 pale lavender bags.
+striped black bags contain 2 light white bags, 4 posh lime bags, 3 posh chartreuse bags.
+posh brown bags contain 1 muted white bag, 2 striped teal bags, 1 faded chartreuse bag.
+dotted aqua bags contain 5 dull orange bags.
+clear yellow bags contain 5 pale fuchsia bags, 2 posh cyan bags.
+faded crimson bags contain 4 vibrant black bags.
+dull tan bags contain 1 plaid crimson bag.
+dark chartreuse bags contain 1 mirrored turquoise bag.
+clear purple bags contain 1 dotted magenta bag, 2 striped lavender bags.
+pale indigo bags contain 2 drab tan bags, 2 shiny indigo bags.
+plaid coral bags contain 2 dark olive bags, 1 pale aqua bag, 5 shiny bronze bags.
+faded purple bags contain 4 dull aqua bags, 2 drab turquoise bags, 5 wavy crimson bags, 2 faded turquoise bags.
+pale gold bags contain 3 plaid blue bags, 3 muted plum bags, 4 wavy tomato bags, 3 clear lavender bags.
+plaid plum bags contain 1 plaid lavender bag, 3 wavy purple bags.
+vibrant violet bags contain 1 posh teal bag, 4 dull gray bags, 5 dim aqua bags, 5 striped yellow bags.
+light maroon bags contain 5 clear blue bags.
+clear olive bags contain 4 posh yellow bags, 4 dotted olive bags, 2 faded chartreuse bags.
+dotted indigo bags contain 1 muted crimson bag, 5 wavy purple bags, 3 dotted crimson bags, 4 dotted chartreuse bags.
+muted coral bags contain 3 faded teal bags, 3 pale crimson bags, 1 posh fuchsia bag.
+striped olive bags contain 1 plaid chartreuse bag, 1 dull indigo bag, 1 shiny salmon bag, 1 shiny crimson bag.
+dull maroon bags contain 4 dull bronze bags, 1 mirrored brown bag, 5 wavy white bags, 5 clear teal bags.
+bright aqua bags contain 2 light bronze bags, 3 bright violet bags, 5 posh fuchsia bags.
+drab fuchsia bags contain 1 pale black bag.
+plaid orange bags contain 2 muted orange bags.
+faded aqua bags contain 4 striped orange bags, 3 striped aqua bags.
+dull coral bags contain 2 dull aqua bags, 5 dim white bags, 1 striped tan bag.
+muted blue bags contain 1 mirrored turquoise bag, 4 bright lavender bags, 4 dull magenta bags.
+striped cyan bags contain 1 shiny tan bag, 5 dark cyan bags, 2 pale chartreuse bags, 3 muted gold bags.
+muted violet bags contain 4 muted bronze bags, 5 mirrored tan bags, 5 bright yellow bags.
+dull blue bags contain 3 striped fuchsia bags, 2 plaid aqua bags, 1 mirrored lime bag.
+bright olive bags contain 1 pale turquoise bag, 2 vibrant gray bags, 5 posh chartreuse bags, 4 shiny lime bags.
+drab red bags contain 1 light lime bag, 1 mirrored black bag, 4 pale purple bags, 2 drab purple bags.
+mirrored brown bags contain 3 dull bronze bags, 3 bright lavender bags.
+dotted brown bags contain 1 plaid turquoise bag, 1 dull plum bag.
+shiny gray bags contain 2 pale magenta bags.
+posh fuchsia bags contain 1 clear gold bag, 5 muted tomato bags, 4 muted white bags, 1 dark brown bag.
+shiny green bags contain 5 posh teal bags, 2 dark brown bags, 1 faded turquoise bag.
+shiny teal bags contain 1 bright coral bag, 2 plaid aqua bags, 2 vibrant yellow bags.
+pale lime bags contain 5 shiny chartreuse bags, 2 striped gold bags.
+bright tan bags contain 5 drab turquoise bags, 2 dotted plum bags.
+wavy maroon bags contain 3 striped yellow bags, 2 plaid red bags, 4 pale teal bags.
+light gray bags contain 3 wavy teal bags, 1 clear brown bag, 5 striped tan bags, 3 muted magenta bags.
+dark tan bags contain 5 posh purple bags.
+light lime bags contain 4 light brown bags, 3 faded violet bags, 5 bright plum bags.
+bright gold bags contain 1 shiny crimson bag, 4 wavy red bags.
+drab crimson bags contain 2 dotted purple bags, 4 plaid purple bags, 4 vibrant black bags.
+pale maroon bags contain 1 dim gray bag.
+wavy chartreuse bags contain 3 bright lavender bags.
+plaid gold bags contain 5 posh lavender bags.
+plaid yellow bags contain 3 shiny black bags.
+dim red bags contain 2 muted indigo bags, 1 shiny aqua bag, 1 dim gray bag.
+faded turquoise bags contain 2 shiny coral bags.
+mirrored purple bags contain 3 muted beige bags, 4 faded blue bags.
+dark black bags contain 4 bright coral bags.
+dull indigo bags contain no other bags.
+dark lime bags contain 1 shiny chartreuse bag, 5 drab plum bags, 2 dim yellow bags.
+dim yellow bags contain 4 dotted plum bags, 2 dim coral bags, 3 dotted red bags.
+shiny silver bags contain 5 drab tan bags, 1 bright cyan bag.
+posh bronze bags contain 5 dotted salmon bags, 1 light aqua bag.
+dull tomato bags contain 1 clear red bag, 1 dull green bag, 1 dark blue bag, 1 striped maroon bag.
+bright fuchsia bags contain 1 dark cyan bag.
+striped red bags contain 5 mirrored lime bags, 4 dull magenta bags, 2 vibrant yellow bags.
+striped green bags contain 2 dim white bags.
+wavy fuchsia bags contain 3 muted fuchsia bags, 3 drab blue bags.
+posh violet bags contain 2 plaid red bags, 3 faded turquoise bags, 1 faded white bag.
+vibrant maroon bags contain 1 clear fuchsia bag, 5 wavy purple bags, 2 dull gold bags.
+dim olive bags contain 2 mirrored yellow bags, 2 muted magenta bags, 3 drab coral bags.
+muted turquoise bags contain 1 drab white bag, 4 vibrant crimson bags, 5 dark teal bags, 1 drab bronze bag.
+light white bags contain 5 vibrant gold bags, 2 faded silver bags, 1 bright beige bag.
+dark beige bags contain 4 shiny white bags, 3 wavy chartreuse bags, 1 dotted red bag, 5 plaid crimson bags.
+wavy gold bags contain 3 posh teal bags.
+muted bronze bags contain 2 dull bronze bags, 2 muted black bags.
+wavy lime bags contain 3 dim violet bags, 5 posh violet bags, 1 light white bag, 2 posh olive bags.
+clear gray bags contain 2 pale purple bags.
+vibrant black bags contain 5 plaid black bags.
+dotted olive bags contain 4 dotted fuchsia bags.
+drab gray bags contain 3 shiny chartreuse bags, 1 dim yellow bag.
+shiny tomato bags contain 1 bright coral bag, 4 mirrored coral bags.
+dotted coral bags contain 2 plaid cyan bags, 3 light crimson bags, 1 light white bag, 3 drab aqua bags.
+drab blue bags contain 3 bright coral bags, 3 dim coral bags.
+mirrored blue bags contain 5 dotted brown bags, 4 clear chartreuse bags, 2 bright gold bags, 3 striped lavender bags.
+muted aqua bags contain 2 bright turquoise bags.
+bright yellow bags contain no other bags.
