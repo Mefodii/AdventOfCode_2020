@@ -22,6 +22,23 @@ class Console:
         self.stop = False
         self.is_loop = False
 
+    def tinker(self):
+        for command in self.commands:
+            old_name = command.name
+            new_name = old_name
+            if old_name == JMP:
+                new_name = NOP
+            elif old_name == NOP:
+                new_name = JMP
+
+            if not old_name == new_name:
+                command.name = new_name
+                self.execute()
+                command.name = old_name
+
+                if not self.is_loop:
+                    return
+
     def execute(self):
         self.reset()
         while not self.stop:
@@ -77,26 +94,6 @@ def build_command(command_data):
     return Command(arg1, arg2)
 
 
-def tinker_console(console):
-    for command in console.commands:
-        old_name = command.name
-        new_name = old_name
-        if old_name == JMP:
-            new_name = NOP
-        elif old_name == NOP:
-            new_name = JMP
-
-        if not old_name == new_name:
-            command.name = new_name
-            console.execute()
-            command.name = old_name
-
-            if not console.is_loop:
-                return console
-
-    return console
-
-
 ###############################################################################
 def run_a(input_data):
     console = Console(list(map(build_command, input_data)))
@@ -106,6 +103,7 @@ def run_a(input_data):
 
 
 def run_b(input_data):
-    console = tinker_console(Console(list(map(build_command, input_data))))
+    console = Console(list(map(build_command, input_data)))
+    console.tinker()
     print(console)
     return [console.accumulator]
