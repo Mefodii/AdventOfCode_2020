@@ -1,3 +1,8 @@
+ACC = "acc"
+NOP = "nop"
+JMP = "jmp"
+
+
 class Command:
     def __init__(self, name, value):
         self.name = name
@@ -15,28 +20,56 @@ class Console:
         self.accumulator = 0
         self.command_position = 0
         self.stop = False
+        self.is_loop = False
 
     def execute(self):
+        self.reset()
         while not self.stop:
-            acc, next_cmd, stop = self.run_command(self.commands[self.command_position])
+            self.run_next()
+
+    def reset(self):
+        self.accumulator = 0
+        self.command_position = 0
+        self.stop = False
+        self.is_loop = False
+        for command in self.commands:
+            command.execution_count = 0
+
+    def run_next(self):
+        if self.command_position >= len(self.commands):
+            self.stop = True
+            return
+
+        command = self.commands[self.command_position]
+        if command.execution_count > 0:
+            self.stop = True
+            self.is_loop = True
+            return
+
+        self.run_command(command)
+        command.execution_count += 1
 
     def run_command(self, command):
-        return 0, 0, True
+        name = command.name
+        if name == ACC:
+            self.acc(command)
+        elif name == JMP:
+            self.jmp(command)
+        elif name == NOP:
+            self.nop()
 
     def jmp(self, command):
-        pass
+        self.command_position += command.value
 
-    def acc(self):
-        pass
+    def acc(self, command):
+        self.command_position += 1
+        self.accumulator += command.value
 
     def nop(self):
-        pass
+        self.command_position += 1
 
-    COMMANDS = {
-        "acc": acc,
-        "jmp": jmp,
-        "nop": nop,
-    }
+    def __repr__(self):
+        return f"{self.accumulator} {self.command_position} {self.is_loop}"
 
 
 def build_command(command_data):
@@ -44,11 +77,35 @@ def build_command(command_data):
     return Command(arg1, arg2)
 
 
+def tinker_console(console):
+    for command in console.commands:
+        old_name = command.name
+        new_name = old_name
+        if old_name == JMP:
+            new_name = NOP
+        elif old_name == NOP:
+            new_name = JMP
+
+        if not old_name == new_name:
+            command.name = new_name
+            console.execute()
+            command.name = old_name
+
+            if not console.is_loop:
+                return console
+
+    return console
+
+
 ###############################################################################
 def run_a(input_data):
     console = Console(list(map(build_command, input_data)))
-    return ""
+    console.execute()
+    print(console)
+    return [console.accumulator]
 
 
 def run_b(input_data):
-    return ""
+    console = tinker_console(Console(list(map(build_command, input_data))))
+    print(console)
+    return [console.accumulator]
