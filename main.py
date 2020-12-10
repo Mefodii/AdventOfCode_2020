@@ -7,12 +7,12 @@ from day_runner import run
 # Main function
 #######################################################################################################################
 def __main__():
-    day = 9
+    day = 10
     ##################
     # run(day, PART_ONE, True)
     # run(day, PART_ONE)
 
-    # run(day, PART_TWO, True)
+    run(day, PART_TWO, True)
     run(day, PART_TWO)
     ##################
     pass
