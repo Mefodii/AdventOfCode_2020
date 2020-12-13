@@ -12,6 +12,40 @@ class Bus:
         return f"{self.interval}"
 
 
+class ComboBus:
+    def __init__(self, interval, bus_id, offset):
+        self.interval = interval
+        self.bus_id = bus_id
+        self.offset = offset
+
+    def get_next_earliest(self, client_time):
+        return (int(client_time / self.interval) + 1) * self.interval
+
+    def combine(self, other_bus):
+        distance = other_bus.bus_id - self.bus_id
+
+        run = True
+        i = 0
+        j = int(self.offset / other_bus.interval) if self.offset > 0 else 1
+        jump = int(self.interval / other_bus.interval) - 1 if self.interval > other_bus.interval else 0
+
+        while run:
+            this_sum = self.interval * i + self.offset
+            while True:
+                other_sum = other_bus.interval * j + other_bus.offset
+                if this_sum + distance == other_sum:
+                    bus = ComboBus(self.interval * other_bus.interval, 0, this_sum - self.bus_id)
+                    return bus
+                elif other_sum > this_sum + distance:
+                    j += jump
+                    break
+                j += 1
+            i += 1
+
+    def __repr__(self):
+        return f"{self.interval} {self.offset}"
+
+
 def get_earliest_depart(buses, client_time):
     depart = 999999999999999999
     earliest_bus = None
@@ -24,6 +58,24 @@ def get_earliest_depart(buses, client_time):
     return earliest_bus, depart
 
 
+def build_combo(data):
+    buses = []
+    bus_data = data.split(",")
+    for i in range(len(bus_data)):
+        if is_int(bus_data[i]):
+            buses.append(ComboBus(int(bus_data[i]), i, 0))
+
+    return buses
+
+
+def combine(buses):
+    combined = buses[0]
+    for bus in buses[1:]:
+        combined = combined.combine(bus)
+
+    return combined
+
+
 ###############################################################################
 def run_a(input_data):
     client_time = int(input_data[0])
@@ -34,42 +86,6 @@ def run_a(input_data):
 
 
 def run_b(input_data):
-    for i in range(1, 500):
-        x = 7 * i
-        for j in range(1, 500):
-            y = 13 * j
-            if x + 1 == y:
-                print(x, i, j)
-            elif y > x + 1:
-                break
-
-    print()
-    for i in range(1, 500):
-        x = 13 * i
-        for j in range(1, 500):
-            y = 59 * j
-            if x + 3 == y:
-                print(x, i, j)
-            elif y > x + 3:
-                break
-
-    print()
-    for i in range(1, 500):
-        x = 59 * i
-        for j in range(1, 500):
-            y = 31 * j
-            if x + 2 == y:
-                print(x, i, j)
-            elif y > x + 2:
-                break
-
-    print()
-    for i in range(1, 500):
-        x = 31 * i
-        for j in range(1, 500):
-            y = 19 * j
-            if x + 1 == y:
-                print(x, i, j)
-            elif y > x + 1:
-                break
-    return ""
+    combo = build_combo(input_data[1])
+    combined = combine(combo)
+    return [combined.offset]
