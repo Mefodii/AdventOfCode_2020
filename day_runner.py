@@ -60,4 +60,5 @@ def run(day, part, sample=False):
     elif part == PART_TWO:
         output_data = DAYS[day].run_b(read_file(input_file))
 
+    print(output_data)
     write_file(output_file, output_data)
