@@ -46,6 +46,46 @@ def get_invalid_fields(rules, tickets):
     return invalid_fields
 
 
+def filter_invalid_tickets(rules, tickets):
+    return [ticket for ticket in tickets if len(ticket.find_invalid(rules)) == 0]
+
+
+def reduce(rules):
+    reduced = [None for i in range(len(rules))]
+
+    while not all(reduced):
+        singles = []
+        for i in range(len(rules)):
+            if len(rules[i]) == 1:
+                singles.append(rules[i][0])
+                reduced[i] = rules[i][0]
+
+        [rule.remove(single) for rule in rules for single in singles if single in rule]
+
+    return reduced
+
+
+def sort_rules(rules, tickets):
+    sorted_rules = []
+    for i in range(len(tickets[0].fields)):
+        match = []
+        for rule in rules:
+            if all([rule.in_range(ticket.fields[i]) for ticket in tickets]):
+                match.append(rule)
+        sorted_rules.append(match)
+
+    return reduce(sorted_rules)
+
+
+def departures_checksum(sorted_rules, ticket):
+    checksum = 1
+    for i in range(len(sorted_rules)):
+        if "departure" in sorted_rules[i].name:
+            checksum *= ticket.fields[i]
+
+    return checksum
+
+
 ###############################################################################
 def run_a(input_data):
     rules, my_ticket, nearby_tickets = build_objects(input_data)
@@ -55,4 +95,8 @@ def run_a(input_data):
 
 
 def run_b(input_data):
-    return ""
+    rules, my_ticket, nearby_tickets = build_objects(input_data)
+    valid_tickets = filter_invalid_tickets(rules, nearby_tickets)
+    sorted_rules = sort_rules(rules, valid_tickets)
+    result = departures_checksum(sorted_rules, my_ticket)
+    return [result]
