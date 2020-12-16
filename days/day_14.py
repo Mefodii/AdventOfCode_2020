@@ -1,6 +1,7 @@
 MASK_CMD = "mask"
 MEM_CMD = "mem"
 
+
 class Mask:
     def __init__(self, value):
         self.value = value
@@ -16,10 +17,10 @@ class Memory:
         binary_value = format(value, "036b")
         self.value = ""
         for i in range(len(binary_value)):
-            if not self.mask.value[i:i+1] == "X":
-                self.value += self.mask.value[i:i+1]
+            if self.mask.value[i:i + 1] == "X":
+                self.value += binary_value[i:i + 1]
             else:
-                self.value += binary_value[i:i+1]
+                self.value += self.mask.value[i:i + 1]
 
 
 def parse_line(line):
@@ -59,6 +60,50 @@ def calc_memory_sum(memory):
     return checksum
 
 
+def apply_mask_to_memory(index, mask):
+    binary_value = format(index, "036b")
+    result = ""
+    pows = []
+    for i in range(len(binary_value)):
+        if mask.value[i:i + 1] == "0":
+            result += binary_value[i:i + 1]
+        else:
+            result += mask.value[i:i + 1]
+
+        if mask.value[i:i + 1] == "X":
+            pows.append(35 - i)
+
+    offset = int(result.replace("X", "0"), 2)
+    return generate_memories(pows, offset)
+
+
+def generate_memories(pows, offset):
+    current_pow = pows[0]
+    result = [offset, offset + pow(2, current_pow)]
+
+    if len(pows) > 1:
+        rest_pows = pows[1:]
+        result += generate_memories(rest_pows, offset) + generate_memories(rest_pows, offset + pow(2, current_pow))
+    return result
+
+
+def run_commands_b(data):
+    memory = {}
+    mask = Mask("")
+
+    for line in data:
+        cmd = parse_line(line)
+        if cmd.get(MASK_CMD, None):
+            mask.value = cmd[MASK_CMD]
+        else:
+            index, value = cmd[MEM_CMD]
+            indexes = apply_mask_to_memory(index, mask)
+            for i in set(indexes):
+                memory[i] = value
+
+    return memory, mask
+
+
 ###############################################################################
 def run_a(input_data):
     memory, mask = run_commands(input_data)
@@ -67,4 +112,6 @@ def run_a(input_data):
 
 
 def run_b(input_data):
-    return ""
+    memory, mask = run_commands_b(input_data)
+    result = sum(memory.values())
+    return [result]
