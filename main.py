@@ -7,7 +7,7 @@ from day_runner import run
 # Main function
 #######################################################################################################################
 def __main__():
-    day = 14
+    day = 15
     ##################
     # run(day, PART_ONE, True)
     # run(day, PART_ONE)
